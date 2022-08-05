@@ -1,5 +1,13 @@
 # NodeForBulk
 
+Git clone repo
+
+cd NodeForBulk && npm install
+
+
+
+
+
 Make changes in sendTx.js file.
 
 
@@ -15,3 +23,6 @@ Adjust loop according to your requirment.
 Enter your account's private key in .env file.
 
 PRIVATE_KEY = "your_private_key"
+
+
+to run ::: node sendTx.js
